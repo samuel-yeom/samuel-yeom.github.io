@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import "fontawesome-all.css";
+
+/* do not make links bold on mouseover */
+a:hover, a:focus {
+  color:#069;
+  font-weight: normal;
+}
+
+/* no horizontal line at end in mobile view */
+section {
+  border: none;
+}
