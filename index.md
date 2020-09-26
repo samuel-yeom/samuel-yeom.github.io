@@ -1,6 +1,6 @@
 I am a PhD student in the Computer Science Department at Carnegie Mellon University, advised by [Matt Fredrikson](https://www.cs.cmu.edu/~mfredrik/).
 
-My current research is on privacy and fairness issues in machine learning. I am also broadly interested in security and privacy.
+My current research deals with privacy and fairness issues in machine learning. I am also broadly interested in security and privacy.
 
 ## Publications
 <table>
@@ -70,3 +70,7 @@ My current research is on privacy and fairness issues in machine learning. I am 
 </table>
 
 <sup>*</sup> Equal contribution
+
+## Miscellaneous
+I am an Officer in [Puzzle Hunt CMU](https://puzzlehunt.club.cc.cmu.edu/), which is a student club that runs a puzzle hunt every semester.
+(If you don't know what a puzzle hunt is, click the link to find out!)
