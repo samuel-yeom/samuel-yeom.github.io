@@ -6,12 +6,24 @@ My current research deals with privacy and fairness issues in machine learning. 
 <table>
   <tr>
     <td>
+      <a href="https://arxiv.org/abs/1808.08619">arXiv</a>
+    </td>
+    <td>
+      <b>Avoiding Disparity Amplification under Different Worldviews</b><br>
+      Samuel Yeom and Michael Carl Tschantz<br>
+      In submission
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.ijcai.org/Proceedings/2020/61">paper</a>
       <a href="https://arxiv.org/abs/2002.07738">arXiv</a>
     </td>
     <td>
       <b>Individual Fairness Revisited: Transferring Techniques from Adversarial Robustness</b><br>
       Samuel Yeom and Matt Fredrikson<br>
-      <i>International Joint Conference on Artificial Intelligence</i>, 2020
+      <i>International Joint Conference on Artificial Intelligence</i>, 2020<br><br>
+      Note: The conference version has a minor error in the proof of Theorem 3. This is fixed in the arXiv version.
     </td>
   </tr>
   <tr>
