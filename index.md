@@ -1,7 +1,3 @@
-I am a PhD student in the Computer Science Department at Carnegie Mellon University, advised by [Matt Fredrikson](https://www.cs.cmu.edu/~mfredrik/).
-
-My current research deals with privacy and fairness issues in machine learning. I am also broadly interested in security and privacy.
-
 ## Publications
 <table>
   <tr>
