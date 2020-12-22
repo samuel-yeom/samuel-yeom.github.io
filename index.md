@@ -7,7 +7,7 @@
     <td>
       <b>Avoiding Disparity Amplification under Different Worldviews</b><br>
       Samuel Yeom and Michael Carl Tschantz<br>
-      In submission
+      <i>ACM Conference on Fairness, Accountability, and Transparency</i>, 2021
     </td>
   </tr>
   <tr>
