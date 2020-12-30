@@ -79,6 +79,11 @@
 
 <sup>*</sup> Equal contribution
 
+## Teaching
+I was a TA for two courses at CMU:
+* [Software Foundations of Security and Privacy](https://15316-cmu.github.io/index.html) (15-316)
+* [Probability and Computing](https://www.cs.cmu.edu/~harchol/PnC/class.html) (15-259)
+
 ## Miscellaneous
 I am an Officer in [Puzzle Hunt CMU](https://puzzlehunt.club.cc.cmu.edu/), which is a student club that runs a puzzle hunt every semester.
 (If you don't know what a puzzle hunt is, click the link to find out!)
