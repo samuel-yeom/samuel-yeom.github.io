@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://arxiv.org/abs/1808.08619">arXiv</a>
+      <a href="https://dl.acm.org/doi/abs/10.1145/3442188.3445892">paper</a>
     </td>
     <td>
       <b>Avoiding Disparity Amplification under Different Worldviews</b><br>
