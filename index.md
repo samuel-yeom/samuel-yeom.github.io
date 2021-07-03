@@ -85,5 +85,7 @@ I was a TA for two courses at CMU:
 * [Probability and Computing](https://www.cs.cmu.edu/~harchol/PnC/class.html) (15-259)
 
 ## Miscellaneous
-I am an Officer in [Puzzle Hunt CMU](https://puzzlehunt.club.cc.cmu.edu/), which is a student club that runs a puzzle hunt every semester.
-(If you don't know what a puzzle hunt is, click the link to find out!)
+I was an Officer in [Puzzle Hunt CMU](https://puzzlehunt.club.cc.cmu.edu/), which is a student club that runs a puzzle hunt every semester.
+Of the puzzles that I wrote, some of my favorites are:
+* [Nonogram Crossword](https://puzzlehunt.club.cc.cmu.edu/puzzle/11005/) (special thanks to Tom Wildenhain for the JavaScript implementation)
+* [The Obligatory PowerPoint Puzzle](https://puzzlehunt.club.cc.cmu.edu/puzzle/15016/)
