@@ -5,7 +5,24 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo title=false %}
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+
+      // Do not allow cookie storage
+      gtag('consent', 'default', {'analytics_storage': 'denied'});
+    </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DMV4D6YDXT"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+
+      gtag('js', new Date());
+      gtag('config', 'G-DMV4D6YDXT', {'anonymize_ip': true, 'allow_google_signals': false});
+    </script>
+
+    {% seo title=false %}
     <title>Samuel Yeom</title>
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -16,7 +33,7 @@
     <div class="wrapper">
       <header>
         <h1>Samuel Yeom</h1>
-        
+
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
@@ -48,17 +65,5 @@
       </section>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    {% if site.google_analytics %}
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', '{{ site.google_analytics }}', {'storage': 'none'});
-      ga('set', 'allowAdFeatures', false);
-      ga('set', 'anonymizeIp', true);
-      ga('send', 'pageview');
-    </script>
-    {% endif %}
   </body>
 </html>
